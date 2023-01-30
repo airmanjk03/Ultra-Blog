@@ -11,7 +11,7 @@
 title: 'Jonathan Kuhlman'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-#slogan: 'A Flexible Theme for Jekyll'
+slogan: 'A runner's heart'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
@@ -25,7 +25,7 @@ author: phlow
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://ljkuhlman.github.io/'
+url: 'https://ljkuhlman.github.io'
 #baseurl: '/feeling-responsive'
 
 # This is for the editing function in _/includes/improve_content
@@ -38,7 +38,7 @@ url: 'https://ljkuhlman.github.io/'
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://ljkuhlman.github.io//images/'
+urlimg: 'https://ljkuhlman.github.io/images/'
 
 
 # Logo size is 600x80 pixels
